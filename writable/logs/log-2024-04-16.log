@@ -1,0 +1,7 @@
+CRITICAL - 2024-04-16 18:19:57 --> TypeError: Argument 3 passed to view() must be of the type array, bool given, called in C:\xampp\htdocs\proyecto_lubke_hernan\app\Controllers\Home.php on line 10
+in SYSTEMPATH\Common.php on line 1166.
+ 1 APPPATH\Controllers\Home.php(10): view('front/head', [], true)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

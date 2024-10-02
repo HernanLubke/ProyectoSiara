@@ -1,0 +1,85 @@
+CRITICAL - 2024-05-31 17:48:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-31 17:52:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-31 19:01:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-31 19:04:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/navba.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/navba.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navba', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(37): view('front/navba')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-31 19:17:30 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\proyecto_lubke_hernan\system\Validation\StrictRules\Rules.php(227): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\proyecto_lubke_hernan\system\Validation\Validation.php(328): CodeIgniter\Validation\StrictRules\Rules->is_unique('lubkehernan@gma...', 'email', Array, NULL, 'email')
+#6 C:\xampp\htdocs\proyecto_lubke_hernan\system\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('email', 'email', 'lubkehernan@gma...', Array, Array)
+#7 C:\xampp\htdocs\proyecto_lubke_hernan\system\Controller.php(152): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\proyecto_lubke_hernan\app\Controllers\Usuario_controller.php(26): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\proyecto_lubke_hernan\system\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+#10 C:\xampp\htdocs\proyecto_lubke_hernan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+#11 C:\xampp\htdocs\proyecto_lubke_hernan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\proyecto_lubke_hernan\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\proyecto_lubke_hernan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\proyecto_lubke_hernan\system\Validation\StrictRules\Rules.php(227): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\proyecto_lubke_hernan\system\Validation\Validation.php(328): CodeIgniter\Validation\StrictRules\Rules->is_unique('lubkehernan@gma...', 'email', Array, NULL, 'email')
+#5 C:\xampp\htdocs\proyecto_lubke_hernan\system\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('email', 'email', 'lubkehernan@gma...', Array, Array)
+#6 C:\xampp\htdocs\proyecto_lubke_hernan\system\Controller.php(152): CodeIgniter\Validation\Validation->run()
+#7 C:\xampp\htdocs\proyecto_lubke_hernan\app\Controllers\Usuario_controller.php(26): CodeIgniter\Controller->validate(Array)
+#8 C:\xampp\htdocs\proyecto_lubke_hernan\system\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+#9 C:\xampp\htdocs\proyecto_lubke_hernan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+#10 C:\xampp\htdocs\proyecto_lubke_hernan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\proyecto_lubke_hernan\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-31 19:17:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `usuarios`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Validation\StrictRules\Rules.php(227): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\Validation\Validation.php(328): CodeIgniter\Validation\StrictRules\Rules->is_unique('lubkehernan@gmail.com', 'email', [...], null, 'email')
+ 5 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('email', 'email', 'lubkehernan@gmail.com', [...], [...])
+ 6 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 7 APPPATH\Controllers\Usuario_controller.php(26): CodeIgniter\Controller->validate([...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

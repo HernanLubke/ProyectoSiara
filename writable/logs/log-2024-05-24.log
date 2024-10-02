@@ -1,0 +1,9 @@
+CRITICAL - 2024-05-24 19:39:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(15): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

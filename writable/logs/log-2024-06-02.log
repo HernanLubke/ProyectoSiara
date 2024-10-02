@@ -1,0 +1,342 @@
+INFO - 2024-06-02 18:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 18:03:14 --> ErrorException: Undefined index: pass
+in APPPATH\Controllers\Login_controller.php on line 31.
+ 1 APPPATH\Controllers\Login_controller.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: pass', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Controllers\\Login_controller.php', 31, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 18:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 18:04:42 --> ErrorException: Undefined index: pass
+in APPPATH\Controllers\Login_controller.php on line 31.
+ 1 APPPATH\Controllers\Login_controller.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: pass', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Controllers\\Login_controller.php', 31, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 18:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 18:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 19:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:45:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 20:45:23 --> Usuario: 
+DEBUG - 2024-06-02 20:45:23 --> Pass: 
+INFO - 2024-06-02 20:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 20:45:25 --> Usuario: 
+DEBUG - 2024-06-02 20:45:25 --> Pass: 
+INFO - 2024-06-02 20:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 20:50:24 --> Usuario: 
+DEBUG - 2024-06-02 20:50:24 --> Pass: 
+INFO - 2024-06-02 20:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 20:52:09 --> Usuario: 
+DEBUG - 2024-06-02 20:52:09 --> Pass: 
+INFO - 2024-06-02 20:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 20:52:24 --> Usuario: 
+DEBUG - 2024-06-02 20:52:24 --> Pass: 
+INFO - 2024-06-02 20:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 20:52:26 --> Usuario: 
+DEBUG - 2024-06-02 20:52:26 --> Pass: 
+INFO - 2024-06-02 20:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 20:52:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 20:52:31 --> Usuario: 
+DEBUG - 2024-06-02 20:52:31 --> Pass: 
+INFO - 2024-06-02 20:52:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 22:51:38 --> Usuario: 
+DEBUG - 2024-06-02 22:51:38 --> Pass: 
+INFO - 2024-06-02 22:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 22:51:41 --> Usuario: 
+DEBUG - 2024-06-02 22:51:41 --> Pass: 
+INFO - 2024-06-02 22:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 22:51:44 --> Usuario: 
+DEBUG - 2024-06-02 22:51:44 --> Pass: 
+INFO - 2024-06-02 22:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 22:53:06 --> Usuario: 
+DEBUG - 2024-06-02 22:53:06 --> Pass: 
+INFO - 2024-06-02 22:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 22:59:47 --> Usuario: 
+DEBUG - 2024-06-02 22:59:47 --> Pass: 
+INFO - 2024-06-02 22:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 22:59:49 --> Usuario: 
+DEBUG - 2024-06-02 22:59:49 --> Pass: 
+INFO - 2024-06-02 22:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 22:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 22:59:57 --> Usuario: 
+DEBUG - 2024-06-02 22:59:57 --> Pass: 
+INFO - 2024-06-02 22:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:00:05 --> Usuario: 
+DEBUG - 2024-06-02 23:00:05 --> Pass: 
+INFO - 2024-06-02 23:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:02:50 --> Usuario: 
+DEBUG - 2024-06-02 23:02:50 --> Pass: 
+INFO - 2024-06-02 23:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:02:52 --> Usuario: 
+DEBUG - 2024-06-02 23:02:52 --> Pass: 
+INFO - 2024-06-02 23:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:02:52 --> Usuario: 
+DEBUG - 2024-06-02 23:02:52 --> Pass: 
+INFO - 2024-06-02 23:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:09:22 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:09:22 --> Password: 123
+CRITICAL - 2024-06-02 23:09:22 --> ErrorException: Undefined index: pass
+in APPPATH\Controllers\Login_controller.php on line 50.
+ 1 APPPATH\Controllers\Login_controller.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: pass', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Controllers\\Login_controller.php', 50, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:09:37 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:09:37 --> Password: 1234
+CRITICAL - 2024-06-02 23:09:37 --> ErrorException: Undefined index: pass
+in APPPATH\Controllers\Login_controller.php on line 50.
+ 1 APPPATH\Controllers\Login_controller.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: pass', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Controllers\\Login_controller.php', 50, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:10:08 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:10:08 --> Password: 1234
+DEBUG - 2024-06-02 23:10:09 --> Password almacenada: $2y$10$FMFDXB/1NMyB9DTKKgHP7OvQ73ISTGJxq8Ci4UPCAz7JL08CO9hZ2
+DEBUG - 2024-06-02 23:10:09 --> Verificación de password: true
+CRITICAL - 2024-06-02 23:10:09 --> ErrorException: Undefined index: id_usuario
+in APPPATH\Controllers\Login_controller.php on line 59.
+ 1 APPPATH\Controllers\Login_controller.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id_usuario', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Controllers\\Login_controller.php', 59, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:10:31 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:10:31 --> Password: 1234
+DEBUG - 2024-06-02 23:10:31 --> Password almacenada: $2y$10$FMFDXB/1NMyB9DTKKgHP7OvQ73ISTGJxq8Ci4UPCAz7JL08CO9hZ2
+DEBUG - 2024-06-02 23:10:31 --> Verificación de password: true
+CRITICAL - 2024-06-02 23:10:31 --> ErrorException: Undefined index: nombre
+in APPPATH\Controllers\Login_controller.php on line 60.
+ 1 APPPATH\Controllers\Login_controller.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: nombre', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Controllers\\Login_controller.php', 60, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:11:10 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:11:10 --> Password: 1234
+DEBUG - 2024-06-02 23:11:11 --> Password almacenada: $2y$10$FMFDXB/1NMyB9DTKKgHP7OvQ73ISTGJxq8Ci4UPCAz7JL08CO9hZ2
+DEBUG - 2024-06-02 23:11:11 --> Verificación de password: true
+INFO - 2024-06-02 23:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 23:11:29 --> ErrorException: Undefined variable: Perfil_id
+in APPPATH\Views\front\navbar.php on line 47.
+ 1 APPPATH\Views\front\navbar.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: Perfil_id', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php', 47, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar', [], true)
+ 5 APPPATH\Controllers\Home.php(11): view('front/navbar')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 23:11:30 --> ErrorException: Undefined variable: Perfil_id
+in APPPATH\Views\front\navbar.php on line 47.
+ 1 APPPATH\Views\front\navbar.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: Perfil_id', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php', 47, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar', [], true)
+ 5 APPPATH\Controllers\Home.php(11): view('front/navbar')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 23:12:25 --> ErrorException: Undefined variable: Perfil_id
+in APPPATH\Views\front\navbar.php on line 47.
+ 1 APPPATH\Views\front\navbar.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: Perfil_id', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php', 47, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar', [], true)
+ 5 APPPATH\Controllers\Home.php(11): view('front/navbar')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 23:12:29 --> ErrorException: Undefined variable: Perfil_id
+in APPPATH\Views\front\navbar.php on line 47.
+ 1 APPPATH\Views\front\navbar.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: Perfil_id', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php', 47, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar', [], true)
+ 5 APPPATH\Controllers\Home.php(11): view('front/navbar')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 23:12:48 --> ErrorException: Undefined variable: Perfil_id
+in APPPATH\Views\front\navbar.php on line 47.
+ 1 APPPATH\Views\front\navbar.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: Perfil_id', 'C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php', 47, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\proyecto_lubke_hernan\\app\\Views\\front\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar', [], true)
+ 5 APPPATH\Controllers\Home.php(11): view('front/navbar')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-02 23:13:03 --> ParseError: syntax error, unexpected 'else' (T_ELSE), expecting end of file
+in APPPATH\Views\front\navbar.php on line 57.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('front/navbar')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:14:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:14:31 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:14:31 --> Password: 1234
+DEBUG - 2024-06-02 23:14:32 --> Password almacenada: $2y$10$FMFDXB/1NMyB9DTKKgHP7OvQ73ISTGJxq8Ci4UPCAz7JL08CO9hZ2
+DEBUG - 2024-06-02 23:14:32 --> Verificación de password: true
+INFO - 2024-06-02 23:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:17:13 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:17:13 --> Password: 1234
+DEBUG - 2024-06-02 23:17:13 --> Password almacenada: $2y$10$FMFDXB/1NMyB9DTKKgHP7OvQ73ISTGJxq8Ci4UPCAz7JL08CO9hZ2
+DEBUG - 2024-06-02 23:17:13 --> Verificación de password: true
+INFO - 2024-06-02 23:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:17:54 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:17:54 --> Password: 1234
+DEBUG - 2024-06-02 23:17:54 --> Password almacenada: $2y$10$FMFDXB/1NMyB9DTKKgHP7OvQ73ISTGJxq8Ci4UPCAz7JL08CO9hZ2
+DEBUG - 2024-06-02 23:17:54 --> Verificación de password: true
+INFO - 2024-06-02 23:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:19:02 --> Usuario: juan_castillo
+DEBUG - 2024-06-02 23:19:02 --> Password: 1234
+DEBUG - 2024-06-02 23:19:02 --> Password almacenada: $2y$10$FMFDXB/1NMyB9DTKKgHP7OvQ73ISTGJxq8Ci4UPCAz7JL08CO9hZ2
+DEBUG - 2024-06-02 23:19:02 --> Verificación de password: true
+INFO - 2024-06-02 23:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-02 23:30:49 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\front\navbar.php on line 75.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/navbar', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('front/navbar')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-02 23:33:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:37:08 --> Usuario: hernan_lubke
+DEBUG - 2024-06-02 23:37:08 --> Password: 1234
+DEBUG - 2024-06-02 23:37:08 --> Password almacenada: $2y$10$g.JaMbsydJSO9ADaxa.cZe8VlUCmbnVAWXGRguqJA2ma9McmMS.Bi
+DEBUG - 2024-06-02 23:37:08 --> Verificación de password: true
+INFO - 2024-06-02 23:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:40:13 --> Usuario: Bru_gon
+DEBUG - 2024-06-02 23:40:13 --> Password: 1234
+DEBUG - 2024-06-02 23:40:13 --> Password almacenada: $2y$10$c7DO.GKLdZDGQXaKbJY1COhzYPDMvTLj3HGfTV4hlbYSGrqN/CFVu
+DEBUG - 2024-06-02 23:40:13 --> Verificación de password: true
+INFO - 2024-06-02 23:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-02 23:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-02 23:46:51 --> Usuario: hernan_lubke
+DEBUG - 2024-06-02 23:46:51 --> Password: 1234
+DEBUG - 2024-06-02 23:46:51 --> Password almacenada: $2y$10$g.JaMbsydJSO9ADaxa.cZe8VlUCmbnVAWXGRguqJA2ma9McmMS.Bi
+DEBUG - 2024-06-02 23:46:51 --> Verificación de password: true
+INFO - 2024-06-02 23:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

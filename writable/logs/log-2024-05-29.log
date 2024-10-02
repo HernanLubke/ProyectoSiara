@@ -1,0 +1,72 @@
+CRITICAL - 2024-05-29 22:28:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 22:32:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 22:32:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 22:32:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 22:33:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 23:21:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 23:40:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 23:49:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/head_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/head_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/head_view', [], true)
+ 3 APPPATH\Controllers\Usuario_controller.php(36): view('front/head_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Usuario_controller->formValidation()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

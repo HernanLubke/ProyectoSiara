@@ -1,0 +1,90 @@
+CRITICAL - 2024-04-20 22:03:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:05:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:05:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:06:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:06:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:17:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:17:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:17:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:18:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 22:18:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "front/contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/contacto.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('front/contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(81): view('front/contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->Contacto()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
